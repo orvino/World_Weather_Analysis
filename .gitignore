@@ -6,6 +6,10 @@ API_Practice.ipynb
 random_numbers.ipynb
 "Random functions.ipynb"
 
+.DS_Store
+
+config.py
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
